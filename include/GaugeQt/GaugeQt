@@ -1,0 +1,13 @@
+#ifndef GAUGEQT_H
+#define GAUGEQT_H
+
+#include "gaugeqt_global.h"
+#include "gaugewidget.h"
+#include "gaugeneedle.h"
+#include "gaugescale.h"
+#include "gaugezone.h"
+#include "gaugebackground.h"
+#include "radialgauge.h"
+#include "speedometer.h"
+
+#endif // GAUGEQT_H
